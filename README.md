@@ -1,4 +1,5 @@
 index.html
+
 -created a form that contains input feild ,password ,remember me checkbox and a submit button 
 -on click on the submit button login function would come into action 
 --login function defined in script tag would perform the functionality of loading and redirectingg into home.html
